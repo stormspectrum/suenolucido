@@ -3,6 +3,6 @@
 <body>
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
-<a href="suenolucidos.games.about.html">Website</a>
+<a href="https://stormspectrum.github.io/suenolucido/about.html">Website</a>
 </body>
 </html>
